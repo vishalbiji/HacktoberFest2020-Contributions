@@ -1,3 +1,4 @@
+/*3D diagram of an IC*/
 #include<graphics.h>
 #include<stdio.h>
 #include<time.h>
